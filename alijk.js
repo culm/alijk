@@ -3,6 +3,7 @@
 window.doseusages:药品用法,{id:{id,name}}
 window.dosefrequencies:药品频次,{id:{id,name}}
 */
+//test
 ;(function(w){
     var rvalidchars = /^[\],:{}\s]*$/,
         rvalidbraces = /(?:^|:|,)(?:\s*\[)+/g,
